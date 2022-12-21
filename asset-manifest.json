@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://prov1denc3y3.github.io/csb-ts3uow/static/css/main.33f59232.chunk.css",
+    "main.js": "https://prov1denc3y3.github.io/csb-ts3uow/static/js/main.f3a3aa66.chunk.js",
+    "main.js.map": "https://prov1denc3y3.github.io/csb-ts3uow/static/js/main.f3a3aa66.chunk.js.map",
+    "runtime-main.js": "https://prov1denc3y3.github.io/csb-ts3uow/static/js/runtime-main.251fca50.js",
+    "runtime-main.js.map": "https://prov1denc3y3.github.io/csb-ts3uow/static/js/runtime-main.251fca50.js.map",
+    "static/js/2.7f132686.chunk.js": "https://prov1denc3y3.github.io/csb-ts3uow/static/js/2.7f132686.chunk.js",
+    "static/js/2.7f132686.chunk.js.map": "https://prov1denc3y3.github.io/csb-ts3uow/static/js/2.7f132686.chunk.js.map",
+    "index.html": "https://prov1denc3y3.github.io/csb-ts3uow/index.html",
+    "static/css/main.33f59232.chunk.css.map": "https://prov1denc3y3.github.io/csb-ts3uow/static/css/main.33f59232.chunk.css.map",
+    "static/js/2.7f132686.chunk.js.LICENSE.txt": "https://prov1denc3y3.github.io/csb-ts3uow/static/js/2.7f132686.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.251fca50.js",
+    "static/js/2.7f132686.chunk.js",
+    "static/css/main.33f59232.chunk.css",
+    "static/js/main.f3a3aa66.chunk.js"
+  ]
+}
